@@ -13,7 +13,7 @@ Node.js is an environment that can run JavaScript code outside of a web browser 
 
 > Docusaurus' minimum supported Node.js version is Node 8, but more recent versions will work as well.
 
-1. Open your Terminal.
+1. Open your Terminal. (For help see [Introduction to the command-line interface](https://tutorial.djangogirls.org/en/intro_to_command_line/).) 
 1. If you have `brew` on your OS, run the following command to install Node (a JavaScript runtime that allows you to run JavaScript on the server) and `npm` the package manager (allows you to install npm modules from your terminal).
 
 ```sh
